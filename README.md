@@ -47,7 +47,8 @@ This site showcases my:
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](assets/images/screenshot-desktop.png) | ![Mobile](assets/images/screenshot-mobile.png) |
+| ![Desktop](assets/images/screenshot-desktop1.png) | ![Mobile](assets/images/screenshot-mobile1.png) |
+| ![Desktop](assets/images/screenshot-desktop2.png) | ![Mobile](assets/images/screenshot-mobile2.png) |
 
 ---
 
